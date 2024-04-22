@@ -1,0 +1,8 @@
+{
+    "tarefas": [
+      { "id": 1, "titulo": "Automação", "concluida": false },
+      { "id": 2, "titulo": "Plataforma Anula Multa", "concluida": false },
+      { "id": 3, "titulo": "Operacional", "concluida": true }
+    ]
+  }
+  
